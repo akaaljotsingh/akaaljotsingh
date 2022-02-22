@@ -9,7 +9,7 @@
   
 👨‍💻 Angular | Design System | CSS Expert | UI/UX
   
-🚧 **Current Project:** Love to contribute in Sikh's Projects
+🚧 Love to contribute in Sikh's Projects
 
 
 <!--
