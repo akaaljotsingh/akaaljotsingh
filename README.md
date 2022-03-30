@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=d86c72&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/akaaljotsingh/)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:akaaljotsingh@gmail.com)
   
-👨‍💻 Angular | Design System | CSS Expert | UI/UX
+👨‍💻 Angular | JS | HTML/CSS Expert | UI/UX
   
 🚧 Love to contribute in Sikh's Projects
 
