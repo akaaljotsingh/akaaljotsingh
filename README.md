@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=1b81c1&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/akaaljot-singh-23aaa8117/)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:akaaljotsingh@gmail.com)
   
-👨‍💻 Angular | JS | HTML/CSS Expert | UI/UX
+👨‍💻 Angular | Ionic | UI/UX
   
 🚧 Love to contribute in Open Projects
 
