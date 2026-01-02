@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=1b81c1&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/lovepreet-singh-khalsa/)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:akaaljotsingh@gmail.com)
   
-👨‍💻 Angular | Ionic | UI/UX
+👨‍💻 Angular | Tauri | Ionic | UI/UX
   
 🚧 Love to contribute in Open Projects
 
